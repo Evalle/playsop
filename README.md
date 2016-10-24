@@ -7,9 +7,8 @@ linux machine.
 - linux machine (tested on openSUSE Leap 42.1)
 
 - mpv player
-- sp-sc-auth binary:
-  http://download.sopcast.com/download/sp-auth.tgz 
-  
+- sp-sc-auth binary (put it in the playsop directory)
+  http://download.sopcast.com/download/sp-auth.tgz. 
   Please, read the Readme file in this package, about the usage and library dependency.
   If you need the stdc++5 library, download it here: 
   http://www.sopcast.com/download/libstdcpp5.tgz 

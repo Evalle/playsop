@@ -10,7 +10,7 @@ _PID=$!
 
 n=0
 until [ $n -ge 10 ]; do
-    # is sp-auth died, exit
+    # if sp-auth died, exit
     ps | grep -q $_PID || exit 1
 
     netstat -vant | grep 8908 | grep -q LISTEN  && break
