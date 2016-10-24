@@ -23,5 +23,5 @@ linux machine.
 where argument 147067 is the last part of the link from livetv.sx (sop://broker.sopcast.com:3912/147067)
 
 ## Note
-$PLAYERTV variable in the script has hardcoded audio settings for my TV, please use $PLAYERNB variable if you want to watch football on your laptop. 
+$PLAYERTV variable in the script has hardcoded audio settings for my TV, please use $PLAYERNB variable if you want to watch football directly on your computer. 
 
